@@ -1,4 +1,4 @@
-# Videojuego "Tiene la Palabra"
+# Videojuego _Tiene la Palabra_
 
 A partir de una estructura de código preestablecida, debimos crear las funciones necesarias para que el juego se ejecute correctamente.
 
