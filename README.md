@@ -7,7 +7,8 @@ Para ser consideradas correctas, las palabras deben existir en un diccionario, d
 
 Inicialmente el juego solo contaba con esta vista:
 
-![Captura de pantalla (29)](https://github.com/davaloslm/Videojuego-Python-UNGS/assets/83665120/5b91d1f8-8361-4747-b4ff-e67eef2558e9)
+<br>
+<img src="https://github.com/davaloslm/Videojuego-Python-UNGS/assets/83665120/5b91d1f8-8361-4747-b4ff-e67eef2558e9" width=600>
 
 ## 📋Funcionalidades adicionales
 
@@ -21,12 +22,18 @@ No solo logramos que el juego funcione sino que decidimos agregar las siguientes
 
 ## 📷Screenshots
 
-![Captura de pantalla (27)](https://github.com/davaloslm/Videojuego-Python-UNGS/assets/83665120/1402be5e-4bf6-4e8c-ac6f-14af5b61e3db)
-![Captura de pantalla (32)](https://github.com/davaloslm/Videojuego-Python-UNGS/assets/83665120/ce443a2f-6bc1-45ba-8091-6886f55891f7)
-![Captura de pantalla (33)](https://github.com/davaloslm/Videojuego-Python-UNGS/assets/83665120/29b02bb8-a2cc-4259-a8a4-d7e9055923ba)
-![Captura de pantalla (34)](https://github.com/davaloslm/Videojuego-Python-UNGS/assets/83665120/433b54c0-5cd3-4e4a-811e-a74840d04a93)
-![Captura de pantalla (31)](https://github.com/davaloslm/Videojuego-Python-UNGS/assets/83665120/89acf70a-05d2-43a5-836b-521afbbdf123)
-![Captura de pantalla (35)](https://github.com/davaloslm/Videojuego-Python-UNGS/assets/83665120/c6154bbc-5fe8-40a5-b626-7b1ffbd9307f)
+<br>
+<img src="https://github.com/davaloslm/Videojuego-Python-UNGS/assets/83665120/1402be5e-4bf6-4e8c-ac6f-14af5b61e3db" width=600>
+<br>
+<img src="https://github.com/davaloslm/Videojuego-Python-UNGS/assets/83665120/ce443a2f-6bc1-45ba-8091-6886f55891f7" width=600>
+<br>
+<img src="https://github.com/davaloslm/Videojuego-Python-UNGS/assets/83665120/29b02bb8-a2cc-4259-a8a4-d7e9055923ba" width=600>
+<br>
+<img src="https://github.com/davaloslm/Videojuego-Python-UNGS/assets/83665120/433b54c0-5cd3-4e4a-811e-a74840d04a93" width=600>
+<br>
+<img src="https://github.com/davaloslm/Videojuego-Python-UNGS/assets/83665120/89acf70a-05d2-43a5-836b-521afbbdf123" width=600>
+<br>
+<img src="https://github.com/davaloslm/Videojuego-Python-UNGS/assets/83665120/c6154bbc-5fe8-40a5-b626-7b1ffbd9307f" width=600>
 
 ## 💻🧉Equipo de desarrollo
 
