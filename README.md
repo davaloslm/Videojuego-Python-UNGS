@@ -12,7 +12,7 @@ Inicialmente el juego solo contaba con esta vista:
 
 ## 📋Funcionalidades adicionales
 
-No solo logramos que el juego funcione sino que decidimos agregar las siguientes funcionalidades:
+Además de cumplir con las consignas obligatorias decidimos agregar las siguientes funcionalidades:
 
 - Menu principal con sus respectivos botones
 - Selección de dificultad
